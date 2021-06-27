@@ -5,6 +5,8 @@ This changelog follows [the Keep a Changelog standard](https://keepachangelog.co
 
 ## [Unreleased](https://github.com/codeat3/blade-elusive-icons/compare/1.0.0...main)
 
+## 1.0.1 (2021-06-27)
+* downgraded blade-icons to v1.0 to be compatible with blade-ui-kit.com
 
 ## 1.0.0 (2021-06-27)
 
