@@ -5,8 +5,8 @@ declare(strict_types=1);
 namespace Codeat3\BladeElusiveIcons;
 
 use BladeUI\Icons\Factory;
-use Illuminate\Contracts\Container\Container;
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Contracts\Container\Container;
 
 final class BladeElusiveIconsServiceProvider extends ServiceProvider
 {
@@ -17,7 +17,7 @@ final class BladeElusiveIconsServiceProvider extends ServiceProvider
         $this->callAfterResolving(Factory::class, function (Factory $factory, Container $container) {
             $config = $container->make('config')->get('blade-elusive-icons', []);
 
-            $factory->add('elusive', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
+            $factory->add('elusive-icons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
     }
 
