@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./socialcard-blade-elusive-icons.png" width="1280" title="Social Card Blade Carbon Icons">
+</p>
+
 # Blade Elusive Icons
 
 <a href="https://github.com/codeat3/blade-elusive-icons/actions?query=workflow%3ATests">
