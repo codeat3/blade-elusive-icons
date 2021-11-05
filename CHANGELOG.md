@@ -3,7 +3,10 @@
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
 
-## [Unreleased](https://github.com/codeat3/blade-elusive-icons/compare/1.0.0...main)
+## [Unreleased](https://github.com/codeat3/blade-elusive-icons/compare/1.1.1...main)
+
+## 1.1.1 (2021-07-19)
+* added php cs fixer
 
 ## 1.0.1 (2021-06-27)
 * downgraded blade-icons to v1.0 to be compatible with blade-ui-kit.com
