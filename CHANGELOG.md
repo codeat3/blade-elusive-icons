@@ -2,7 +2,16 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-elusive-icons/compare/1.2.1...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-elusive-icons/compare/1.3.1...HEAD)
+
+## [1.3.1](https://github.com/codeat3/blade-elusive-icons/compare/1.2.1...1.3.1) - 2023-03-10
+
+### What's Changed
+
+- upgrade github action to php82 by @swapnilsarwe in https://github.com/codeat3/blade-elusive-icons/pull/3
+- added auto update generation script by @swapnilsarwe in https://github.com/codeat3/blade-elusive-icons/pull/4
+
+**Full Changelog**: https://github.com/codeat3/blade-elusive-icons/compare/1.2.1...1.3.1
 
 ## [1.2.1](https://github.com/codeat3/blade-elusive-icons/compare/1.1.0...1.2.1) - 2023-02-18
 
